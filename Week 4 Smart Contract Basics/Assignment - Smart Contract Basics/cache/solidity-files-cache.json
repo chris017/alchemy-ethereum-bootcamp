@@ -1,0 +1,75 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "/Users/chris/Documents/web3/week4 - Smart Contract Basics/contracts/Contract.sol": {
+      "lastModificationDate": 1678720024963,
+      "contentHash": "45de9de010c9b02429362b63d8901a1a",
+      "sourceName": "contracts/Contract.sol",
+      "solcConfig": {
+        "version": "0.8.4",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.4"
+      ],
+      "artifacts": [
+        "Contract"
+      ]
+    },
+    "/Users/chris/Documents/web3/week4 - Smart Contract Basics/contracts/Winner.sol": {
+      "lastModificationDate": 1678720024957,
+      "contentHash": "a164e62ea743184950614b146a37e9b3",
+      "sourceName": "contracts/Winner.sol",
+      "solcConfig": {
+        "version": "0.8.4",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.0"
+      ],
+      "artifacts": [
+        "Winners"
+      ]
+    }
+  }
+}

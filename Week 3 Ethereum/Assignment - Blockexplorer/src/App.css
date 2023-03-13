@@ -1,0 +1,37 @@
+* {
+  background-color: #4D49BE;
+}
+
+.balance {
+  color: #F3EA5D;
+  margin: 10%;
+  text-align: center;
+}
+
+.btn {
+  margin: 1%;
+}
+
+.button-20 {
+  appearance: button;
+  background-color: #F3EA5D;
+  border: none;
+  border-radius: 1rem;
+  box-shadow: rgba(255, 255, 255, 0.15) 0 1px 0 inset, rgba(46, 54, 80, 0.075) 0 1px 1px;
+  box-sizing: border-box;
+  color: #4D49BE;
+  cursor: pointer;
+  display: inline-block;
+  font-family: Inter, sans-serif;
+  font-size: 1rem;
+  font-weight: 500;
+  line-height: 1.5;
+  margin: 0;
+  padding: .5rem 1rem;
+  text-align: center;
+  text-transform: none;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  vertical-align: middle;
+}
