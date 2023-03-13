@@ -15,6 +15,8 @@ If you take a look at the Code tab in Etherscan, you'll see that the source code
             emit Winner(msg.sender);
         }
 
-    }<br />
+    }
+
+<br />
 
 How do we possibly make it so the tx.origin (the EOA who originated the transaction) is not equal to the msg.sender? 🤔
