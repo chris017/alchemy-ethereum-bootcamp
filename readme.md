@@ -1,3 +1,5 @@
+<img src="./img/alchemy.jpg">
+
 # Alchemy University Ethereum Bootcamp Solutions
 
 Hello everyone,
