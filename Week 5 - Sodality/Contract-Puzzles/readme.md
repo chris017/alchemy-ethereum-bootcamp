@@ -1,6 +1,7 @@
 # My Solution to Contract Puzzles
 
 <img width="275" alt="Bildschirm­foto 2023-03-17 um 13 02 12" src="https://user-images.githubusercontent.com/28670581/225899145-906015d8-858f-4022-ab86-f6ea8e75ddb2.png">
+Once you are able to run npx hardhat test and get all the tests passing green with ✅✅✅✅✅ check marks, you have successfully solved all the challenges! 🧠
 
 ## The goal of the Smart Contract puzzles 🏁
 
