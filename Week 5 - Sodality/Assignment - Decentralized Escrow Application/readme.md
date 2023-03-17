@@ -1,6 +1,6 @@
 # My fist Decentralized Escrow Application 👾
 This is an Escrow Dapp built with [Hardhat](https://hardhat.org/).
-<img width="1436" alt="Bildschirm­foto 2023-03-17 um 18 10 09" src="https://user-images.githubusercontent.com/28670581/225976500-617f587b-75eb-486b-b45c-637cbcf38277.png">
+<img width="1436" alt="Bildschirm­foto 2023-03-17 um 18 28 11" src="https://user-images.githubusercontent.com/28670581/225976845-2b8faba5-9502-42b8-9db4-2cff6dfe1cb1.png">
 <img width="315" alt="Bildschirm­foto 2023-03-17 um 18 29 04" src="https://user-images.githubusercontent.com/28670581/225976602-1a54d2a2-337e-4596-b573-53edddca6b5a.png">
 
 ## Project Layout
