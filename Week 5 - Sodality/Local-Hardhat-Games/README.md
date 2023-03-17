@@ -1,4 +1,4 @@
-# My Solution to Local Hardhat Games 🎲
+# My Solution to Local Hardhat Games 👾
 
 The Solutions to each Contract file:
 
