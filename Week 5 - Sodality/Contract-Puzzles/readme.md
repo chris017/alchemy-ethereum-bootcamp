@@ -1,5 +1,7 @@
 # My Solution to Contract Puzzles
 
+<img width="275" alt="Bildschirm­foto 2023-03-17 um 13 02 12" src="https://user-images.githubusercontent.com/28670581/225899145-906015d8-858f-4022-ab86-f6ea8e75ddb2.png">
+
 ## The goal of the Smart Contract puzzles 🏁
 
 work on reading smart contracts and writing good tests to modify those smart contracts.
