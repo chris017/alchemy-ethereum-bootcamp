@@ -22,11 +22,11 @@ OpenZeppelin: Learn more about ERC-20 tokens and the OpenZeppelin ERC-20 impleme
 
 ## Install Repo
 
-`clone reposetory`
-`npm install`
+`clone reposetory`<br />
+`run: npm install`
 
 ## Add .env file
 
-Add your GOERLI_URL and PRIVATE_KEY
-then run:
+Add your GOERLI_URL and PRIVATE_KEY<br />
+then run:<br />
 `npx hardhat run scripts/deploy.js --network goerli`
