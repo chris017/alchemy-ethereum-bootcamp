@@ -1,5 +1,3 @@
-<img src="./img/alchemy-logo-blue-gradient.png">
-
 # Alchemy University Ethereum Bootcamp Solutions 🚀
 
 Hello everyone,
@@ -24,3 +22,5 @@ Thank you and happy coding!
 - Mastering the Solidity Language
 - The Core Solidity Concepts
 - How Smart Contracts are Governed
+
+<img src="./img/alchemy-logo-blue-gradient.png">
