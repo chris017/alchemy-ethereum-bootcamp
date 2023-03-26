@@ -1,6 +1,6 @@
 <img src="./img/alchemy.jpg">
 
-# Alchemy University Ethereum Bootcamp Solutions
+# Alchemy University Ethereum Bootcamp Solutions 🚀
 
 Hello everyone,
 
@@ -14,3 +14,13 @@ Also, if you notice any issues with my solutions, please let me know and I'll do
 ### If you find my solutions helpful, I would really appreciate it if you could <br />give this repository a ⭐️.
 
 Thank you and happy coding!
+
+### What I learned 📚
+
+- Core Blockchain Cryptography
+- Blockchain Balances and Data Structures
+- Etherium State Machine
+- Solidity Syntax and Data Types
+- Mastering the Solidity Language
+- The Core Solidity Concepts
+- How Smart Contracts are Governed
