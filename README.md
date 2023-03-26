@@ -1,4 +1,4 @@
-<img src="./img/alchemy.jpg">
+<img src="./img/alchemy-logo-blue-gradient.png">
 
 # Alchemy University Ethereum Bootcamp Solutions 🚀
 
