@@ -23,4 +23,7 @@ Thank you and happy coding!
 - The Core Solidity Concepts
 - How Smart Contracts are Governed
 
+
+https://user-images.githubusercontent.com/28670581/232489522-c1b4f8fe-5c84-44d0-aada-c154c7fe0926.mp4
+
 <img src="./img/alchemy-logo-blue-gradient.png">
