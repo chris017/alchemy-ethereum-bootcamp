@@ -1,5 +1,5 @@
-# My first Decentralized Escrow Application 👾
-This is an Escrow Dapp built with [Hardhat](https://hardhat.org/).
+# Decentralized Escrow Application 👾
+My decentralized escrow application is an innovative solution to make transactions safer and more transparent. With my system, buyers and sellers can agree to use an escrow payment, where the payment is only released once the agreed-upon conditions are met. The use of blockchain technology ensures the security and integrity of transactions, as information is stored in a decentralized and tamper-proof manner. My decentralized escrow application provides a user-friendly and trustworthy solution for anyone looking to carry out transactions more securely and efficiently.
 <img width="1436" alt="Bildschirm­foto 2023-03-17 um 18 28 11" src="https://user-images.githubusercontent.com/28670581/225976845-2b8faba5-9502-42b8-9db4-2cff6dfe1cb1.png">
 <img width="315" alt="Bildschirm­foto 2023-03-17 um 18 29 04" src="https://user-images.githubusercontent.com/28670581/225976602-1a54d2a2-337e-4596-b573-53edddca6b5a.png">
 
